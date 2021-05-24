@@ -1,16 +1,16 @@
 ---
 title: 繁體中文 (Traditional Chinese)
-permalink: "/languages/chinese-traditional.html"
 key: lang-zh-hant
-cover: "/docs/assets/images/languages/lang-zh.jpg"
+permalink: /languages/chinese-traditional.html
+cover: /docs/assets/images/languages/lang-zh.jpg
 lang: zh-Hant
 header:
   theme: dark
-  background: "#41555d"
+  background: '#41555d'
 article_header:
   type: cover
   image:
-    src: "/docs/assets/images/languages/lang-image-zh-hant.jpg"
+    src: /docs/assets/images/languages/lang-image-zh-hant.jpg
 ---
 
 繁體中文。

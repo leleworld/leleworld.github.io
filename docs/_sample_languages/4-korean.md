@@ -1,8 +1,8 @@
 ---
 title: 한국어 (Korean)
-permalink: "/languages/korean.html"
 key: lang-ko
-cover: "/docs/assets/images/languages/lang-ko.jpg"
+permalink: /languages/korean.html
+cover: /docs/assets/images/languages/lang-ko.jpg
 lang: ko
 ---
 

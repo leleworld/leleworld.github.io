@@ -1,8 +1,8 @@
 ---
 title: English
-permalink: "/languages/english.html"
 key: lang-en
-cover: "/docs/assets/images/languages/lang-en.jpg"
+permalink: /languages/english.html
+cover: /docs/assets/images/languages/lang-en.jpg
 lang: en
 ---
 
