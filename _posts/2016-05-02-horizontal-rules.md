@@ -1,7 +1,11 @@
 ---
 title: Jekyll - Horizontal Rules
+date: 2016-05-02 00:00:00 Z
+categories:
+- docs
+tags:
+- Jekyll
 key: 20160502
-tags: Jekyll
 ---
 
 * * *

@@ -1,7 +1,11 @@
 ---
 title: Jekyll - Code Blocks
+date: 2016-06-16 00:00:00 Z
+categories:
+- docs
+tags:
+- Jekyll
 key: 20160616
-tags: Jekyll
 ---
 
 ## Code Spans

@@ -1,8 +1,8 @@
 ---
 title: Français (French)
+permalink: "/languages/french.html"
 key: lang-fr
-permalink: /languages/french.html
-cover: /docs/assets/images/languages/lang-fr.jpg
+cover: "/docs/assets/images/languages/lang-fr.jpg"
 lang: fr
 ---
 

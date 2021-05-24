@@ -1,7 +1,11 @@
 ---
 title: Test - Article with Lots of Images
+date: 2015-01-03 00:00:00 Z
+categories:
+- docs
+tags:
+- Test
 key: 20150103
-tags: Test
 ---
 
 ## TeXt Theme - Cover

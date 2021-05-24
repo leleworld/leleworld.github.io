@@ -1,7 +1,11 @@
 ---
 title: Jekyll - Blockquotes
+date: 2016-05-08 00:00:00 Z
+categories:
+- docs
+tags:
+- Jekyll
 key: 20160508
-tags: Jekyll
 ---
 
 > “There is nothing either good or bad, but thinking makes it so.”

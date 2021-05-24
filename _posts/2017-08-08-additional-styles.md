@@ -1,7 +1,11 @@
 ---
 title: TeXt - Additional Styles
+date: 2017-08-08 00:00:00 Z
+categories:
+- docs
+tags:
+- TeXt
 key: 20170808
-tags: TeXt
 ---
 
 Success!

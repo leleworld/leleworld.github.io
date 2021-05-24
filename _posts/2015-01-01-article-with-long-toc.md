@@ -1,7 +1,11 @@
 ---
 title: Test - Article with Long TOC
+date: 2015-01-01 00:00:00 Z
+categories:
+- docs
+tags:
+- Test
 key: 20150101
-tags: Test
 ---
 
 Article with long TOC.

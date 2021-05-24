@@ -1,7 +1,11 @@
 ---
 title: TeXt - Extensions
+date: 2017-08-02 00:00:00 Z
+categories:
+- docs
+tags:
+- TeXt
 key: 20170802
-tags: TeXt
 ---
 
 With the help of extensions, you can easily add **audios**, **videos**, **slides** and **demos** in your posts.
